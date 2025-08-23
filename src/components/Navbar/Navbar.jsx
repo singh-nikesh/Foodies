@@ -12,25 +12,25 @@ const NavMenu = [
     {
         id: 2,
         title: "About",
-        path: "\Foodies\src\components\Pages\About.jsx",
+        path: "/About",
         delay: 0.2
     },
     {
         id: 3,
         title: "Menu",
-        path: "\Foodies\src\components\Pages\Menu.jsx",
+        path: "/Menu",
         delay: 0.3
     },
     {
         id: 4,
         title: "Delivery",
-        path: "\Foodies\src\components\Pages\Delivery.jsx",
+        path: "/Delivery",
         delay: 0.4
     },
     {
         id: 5,
         title: "Contact Us",
-        path: "\Foodies\src\components\Pages\Contact.jsx",
+        path: "/Contact",
         delay: 0.4
     }
     
