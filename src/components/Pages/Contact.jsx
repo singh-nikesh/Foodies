@@ -1,3 +1,4 @@
+import Contact from "./Pages/Contact";
 export default function Contact() {
   return (
     <section className="max-w-5xl mx-auto px-4 py-10">

@@ -1,3 +1,4 @@
+import About from "./Pages/About";
 export default function About() {
   return (
     <section className="max-w-5xl mx-auto px-4 py-10">
