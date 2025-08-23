@@ -7,7 +7,7 @@ Tip: Place screenshots in /screenshots and update the src paths below.
   <h1>🍽️ Foodies – React Food Ordering App</h1>
   <p>A visually appealing, responsive, and component-driven React.js web application for exploring and ordering delicious food.</p>
   <p>
-    <a href="https://krishi-foodies-react.netlify.app/" target="_blank"><b>🔗 Live Demo</b></a>
+    <a href="https://nickk-foodies.netlify.app/" target="_blank"><b>🔗 Live Demo</b></a>
   </p>
 </div>
 
@@ -156,7 +156,7 @@ npm start
 <h2 id="credits">🙌 Credits</h2>
 <p>
   <b>Developer:</b>Nikesh Singh<br/>
-  <b>Demo:</b> <a href="" target="_blank"></a>
+  <b>Demo:</b> <a href="https://nickk-foodies.netlify.app/" target="_blank"></a>
 </p>
 
 <hr/>
