@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .text-outline {
+        /* yummy text stroke effect */
+        -webkit-text-stroke: 1px rgb(0, 0, 0); 
+    }
+   }
+
+@layer components {
+    .btn-primary {
+        /* order now button effect */
+        @apply bg-darkGreen text-white hover:scale-110 font-semibold py-2 px-4 rounded-full duration-200;
+    }
+}
+@layer utilities {
+    .img-shadow {
+       filter: drop-shadow(-6px 6px 10px rgba(0, 0, 0, 0.5));  
+      }
+
+      .footer-link {
+        @apply hover:text-darkGreen duration-200
+         hover:underline;
+
+      }
+      .nav-menu {
+        @apply  hover:text-darkGreen;
+      }
+}
