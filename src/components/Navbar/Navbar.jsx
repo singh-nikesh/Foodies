@@ -6,10 +6,10 @@ import { motion } from "framer-motion";
 
 const NavMenu = [
   { id: 1, title: "Home", path: "/", delay: 0.1 },
-  { id: 2, title: "About", path: "/About", delay: 0.2 },
-  { id: 3, title: "Menu", path: "/Menu", delay: 0.3 },
-  { id: 4, title: "Delivery", path: "/Delivery", delay: 0.4 },
-  { id: 5, title: "Contact Us", path: "/Contact", delay: 0.5 },
+  { id: 2, title: "About", path: "/about", delay: 0.2 },
+  { id: 3, title: "Menu", path: "/menu", delay: 0.3 },
+  { id: 4, title: "Delivery", path: "/delivery", delay: 0.4 },
+  { id: 5, title: "Contact Us", path: "/contact", delay: 0.5 },
 ];
 
 // Animation function for slide down
