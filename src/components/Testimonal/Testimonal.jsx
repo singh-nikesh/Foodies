@@ -29,7 +29,7 @@ const Testimonal = () => {
                  whileInView="show"
 
                  >
-                    <h2 className='text-xl font-bold'>Krishi</h2>
+                    <h2 className='text-xl font-bold'>Nikesh</h2>
                     <p className='text-sm'>Designation</p>
                  </motion.div>
                     </div>
